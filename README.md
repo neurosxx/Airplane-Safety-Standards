@@ -15,9 +15,20 @@ In order to obtain more information relevant to aircrafts, a dataset from https:
 # Exploratory Data Analysis 
 
 # Conclusion 
+In summary, the three business recommendations for investors include:
+
+   * With regards to number of engines, the data indicates that the following engine types: Turbo fan, Turbo jet, Turbo Prop, and Turbo shaft are associated with the least amount of Fatal injuries.  Based on the Number of Engines graph, turbo jet engine would be the most recommended for safest aircraft. 
+
+* Discussing number of engines, the safest engine would include 2, 3, or 4 engines. Aircrafts that do not have only one engine show significantly decreased fatal injuries. Multi-engine aircrafts have backup engines if engine failure occurs, which is a significant factor of increased safety. 
+
+* Lastly, based on the data, Cessna, Piper, Beech, and Boeing are associated with the highest fatal injuries, but this may be due to common frequency of these planes being more generally accepted to use. 
 
 ## Limitations
+* Obtained data set did not have full amount of data to provide an improved analysis.  With a full data set, more concise and accurate analysis would lead to better standards of aircraft safety. 
 
 ## Recommendations 
+* Purchasing an airplane with an engine type of "Turbo Jet" or "Turbo Shaft" are priority for safety.  Also, multi engine airplanes like Dornier or Dassault/sud would benefit shipment of your cargo and prioritize safety of your employees. 
 
 ## Next Steps 
+* Include more complete data sets to obtain improved accuracy on safety standards. 
+* Look into specific prices of multi-engine models for future investors
