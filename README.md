@@ -17,7 +17,26 @@ In order to obtain more information relevant to aircrafts, a dataset from https:
      * This project prepares data from NTSB Aviation Accident and will be used to determine safety standard for potential investors.
   
   Data Overview: 
-  
+  - **Source:** 'https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v3/master/data/Aviation_Data.csv'
+- **Format:** CSV, JSON
+- **Size:** 138 rows, 20 columns
+- **Columns:**
+  - `Event.Id`: Unique identifier
+  - `Make`: Unique model of aircraft
+  - `Total.Fatal.Injuries`: Total amount of fatal injuries in each aircraft event
+  - `Number.of.Engines`: Amount of engines an aircraft has
+ 
+   Data Preparation Steps:
+  **Data Cleaning**
+  - Removed rows with missing values in all columns
+ 
+  **Data Transformation**
+  E-ncoded values to be lower cased to help benefit analysis
+
+  ## How to Run the Data Preparation
+1. Clone the repository:
+   ```bash
+   git clone 
   
 # Exploratory Data Analysis 
 ![image](https://github.com/user-attachments/assets/2c0652fb-6955-4ae5-a322-28dc89f6bf4d)
