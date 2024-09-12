@@ -15,6 +15,10 @@ In order to obtain more information relevant to aircrafts, a dataset from https:
 ## Data Preparation 
 
 # Exploratory Data Analysis 
+![image](https://github.com/user-attachments/assets/7d0e92f5-8e07-4e50-ade9-8069314b7c7e)
+![image](https://github.com/user-attachments/assets/a668ef7a-60b9-41ad-988e-b5353849e933)
+
+
 
 # Conclusion 
 In summary, the three business recommendations for investors include:
