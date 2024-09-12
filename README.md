@@ -31,13 +31,14 @@ In order to obtain more information relevant to aircrafts, a dataset from https:
   - Removed rows with missing values in all columns
  
   **Data Transformation**
-  E-ncoded values to be lower cased to help benefit analysis
+  - Encoded values to be lower cased to help benefit analysis
+  - Encoded values to obtain only professionally built aircrafts
 
-  ## How to Run the Data Preparation
-1. Clone the repository:
-   ```bash
-   git clone 
-  
+  ## Libraries and Tools
+  - Python 3.8
+  - pandas 1.2.3
+  - numpy 1.19.5
+
 # Exploratory Data Analysis 
 ![image](https://github.com/user-attachments/assets/2c0652fb-6955-4ae5-a322-28dc89f6bf4d)
 ![image](https://github.com/user-attachments/assets/ddeb0b81-3898-4d20-be2b-5821b089c654)
