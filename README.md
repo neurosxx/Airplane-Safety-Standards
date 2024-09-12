@@ -15,8 +15,8 @@ In order to obtain more information relevant to aircrafts, a dataset from https:
 ## Data Preparation 
 
 # Exploratory Data Analysis 
-![image](https://github.com/user-attachments/assets/3a8bb5fb-82d1-4e13-b63d-7dde9c893b29)
-![image](https://github.com/user-attachments/assets/997d08ef-0c5f-4fd9-b054-d508938dd621)
+![image](https://github.com/user-attachments/assets/2c0652fb-6955-4ae5-a322-28dc89f6bf4d)
+![image](https://github.com/user-attachments/assets/ddeb0b81-3898-4d20-be2b-5821b089c654)
 
 
 
