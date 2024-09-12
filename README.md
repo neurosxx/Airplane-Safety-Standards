@@ -1,3 +1,5 @@
+Author: Jesus Rafael Herrera
+
 # Business Understanding
 In this project, we will be looking at an aircraft dataset to provide  recommendations of which aircraft are the lowest risk for interested stakeholder.
 
