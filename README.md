@@ -13,7 +13,12 @@ In order to obtain more information relevant to aircrafts, a dataset from https:
  * With use of the above dataset, we are able to determine factors of safety and their value to investors. 
 
 ## Data Preparation 
-
+ * Project Description:
+     * This project prepares data from NTSB Aviation Accident and will be used to determine safety standard for potential investors.
+  
+  Data Overview: 
+  
+  
 # Exploratory Data Analysis 
 ![image](https://github.com/user-attachments/assets/2c0652fb-6955-4ae5-a322-28dc89f6bf4d)
 ![image](https://github.com/user-attachments/assets/ddeb0b81-3898-4d20-be2b-5821b089c654)
