@@ -8,7 +8,7 @@ In order to obtain more information relevant to aircrafts, a dataset from https:
 
   * The National Transportation Safety Board [NTSB] provides information from 1962 and more recent dates about civil aviation accident and chosen incidents within the United States, territories and possessions, and in international waters. 
 
-  With use of the above dataset, we are able to determine factors of safety and their value to investors. 
+ * With use of the above dataset, we are able to determine factors of safety and their value to investors. 
 
 ## Data Preparation 
 
