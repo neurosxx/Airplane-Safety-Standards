@@ -40,7 +40,8 @@ In order to obtain more information relevant to aircrafts, a dataset from https:
   - numpy 1.19.5
 
 # Exploratory Data Analysis 
-![image](https://github.com/user-attachments/assets/2c0652fb-6955-4ae5-a322-28dc89f6bf4d)
+![image](https://github.com/user-attachments/assets/0b24dd31-d100-4723-ba7d-d98dff393cee)
+
 ![image](https://github.com/user-attachments/assets/ddeb0b81-3898-4d20-be2b-5821b089c654)
 
 
